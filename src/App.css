@@ -68,7 +68,7 @@ main {
 
 .email-link {
   padding-right: 1.94em; /* 31px */
-  background: url("/src/images/mail.png") no-repeat;
+  background: url("/images/mail.png") no-repeat;
   background-position: 27px 53%;
   background-color: white;
   text-align: right;
@@ -78,7 +78,7 @@ main {
 .linkedin-link {
   color: #fff;
   padding-right: 1.31em; /* 21px */
-  background: url("/src/images/icon-font-awesome-free-brands-l-linkedin.png")
+  background: url("/images/icon-font-awesome-free-brands-l-linkedin.png")
     no-repeat;
   background-position: 17px 53%;
   background-color: #5093e2;
