@@ -35,7 +35,7 @@ This project has been instrumental in enhancing my skills. Key learnings include
 
 ## Getting Started
 
-Follow these simple steps to get FlavrFindr up and running on your local machine:
+Follow these simple steps to get Digital Business Card up and running on your local machine:
 
 1. **Clone the Repository:**
    Open your terminal and run the following command to clone the repository to your local machine:
