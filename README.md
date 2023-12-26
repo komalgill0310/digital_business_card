@@ -91,6 +91,6 @@ Digital Business Card utilizes the following key dependencies to deliver an effi
 
 Feel free to explore each of these technologies to gain a deeper understanding of Digital Business Card's robust foundation.
 
-**Developers:**
+# Author
 
 Komal | Software Developer | [Portfolio](https://kaurkomal.com/) | [LinkedIn](https://www.linkedin.com/in/hssa03/)
